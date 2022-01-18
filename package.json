@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@apollo/client": "^3.5.7",
     "apollo-server-express": "^2.15.0",
     "caniuse-lite": "^1.0.30001300",
     "graphql": "^15.8.0",
