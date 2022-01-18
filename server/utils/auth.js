@@ -25,6 +25,16 @@ class AuthService {
     }
   }
 
+  //get user token from local storage
+  getToken() {
+    return localStorage.getItem('id_token');
+  }
+
+  // saves user's token to localStorage
+  login(idToken) {
+    localStorage.setItem('id_token', idToken);
+    window.location.assign('/');
+
 }
 
 // set token secret and expiration date
