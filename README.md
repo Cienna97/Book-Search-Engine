@@ -36,14 +36,19 @@ THEN I am presented with all of the books I have saved to my account, each featu
 
 # Usage
 
+In this application the user can create a login to search for books as well as save the books they would like to read/come back to later
+
 # Links
 
-GitHub:
+GitHub: https://github.com/Cienna97/Book-Search-Engine.git
 
-Heroku:
+Heroku: https://whispering-garden-22723.herokuapp.com/
 
 # Screenshot
 
-Can be found within application in screenshot folder
+Screenshots of the Book-Search-Engine can be found in the "screenshot" folder within the application
 
 # Future Development
+
+In the future I would like to add an option for users to be able to add friends and see what books others are reading/are interested in reading 
+
